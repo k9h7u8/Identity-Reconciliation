@@ -1,6 +1,6 @@
 # Bitespeed Identity Reconciliation API
 
-This is a backend service for identity reconciliation implemented as a web service with a single `/identify` endpoint.
+This is a backend service for identity reconciliation, implemented as a web service with a single `/identify` endpoint.
 
 ## API Endpoint
 
